@@ -1,0 +1,17 @@
+.root{
+    -fx-font: normal 15px 'Times New Roman';
+    -fx-background-color: linear-gradient(to bottom right, red, yellow);
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+
+}
+
+.label {
+    -fx-font: normal bold 15px 'Courier';
+}
+
+.button {
+    -fx-border-radius: 5;
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    -fx-font: normal bold 18px 'Times New Roman';
+}
+
